@@ -1,0 +1,4 @@
+Lancement STACK Docker
+
+
+docker-compose up -d
